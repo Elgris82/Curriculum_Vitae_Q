@@ -1,0 +1,61 @@
+body{
+  background-image: url(imagenes/atmosfera-q.gif);
+  background-size: cover;
+  background-position: center center;
+}
+#contenedor {
+  width: 100%;
+  }
+  #cabecera {
+    font-size: 300%;
+    font-weight: 400;
+    color: transparent;
+    background-image: url(https://media.tenor.com/W7KjU6W9CHEAAAAC/light-speed.gif);
+    -webkit-background-clip: text;
+    font-family: 'Space Grotesk';
+    
+  }
+  #Wiki{
+    float: right;
+  }
+
+  .fa-wikipedia-w{color: rgb(8, 7, 7); font-size: 150%;}
+
+  #menu {
+    text-align: center;
+    font-size: 300%;
+}
+  #continuum{
+    font-family: 'Space Grotesk';
+    font-size: 150%;
+}
+    button{
+    width: 8%;
+    background-color: transparent;
+    color: rgb(7, 7, 7);
+    border-color: transparent;  
+    font-family: 'Space Grotesk', sans-serif;
+    text-align: center;
+    }  
+
+  #contenido {
+    margin-left: 0%;
+    width: 50%;
+    font-family: 'Space Grotesk';
+  }
+  #pie {
+    clear: both;
+  }
+
+.fa-person{
+    font-size: 500%;
+}
+.fa-school{
+  font-size: 500%;
+}
+.fa-briefcase{
+  font-size: 500%;
+}
+.fa-mobile{
+  font-size: 500%;
+  }
